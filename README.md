@@ -23,7 +23,7 @@ This simple tech stack allowed us to learn while implementing the features ourse
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sidran1310/facultyprojectsys.git
+   git clone https://github.com/kruthi15/facultyprojectsystem.git
    cd facultyprojectsys
    ```
 
